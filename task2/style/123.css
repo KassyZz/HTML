@@ -1,0 +1,46 @@
+body,ul,p,h1,h2,h3,dl,dd,form,input,textarea,select{padding: 0;margin: 0;font-family: arial;}
+
+body { background:#c0c0c0; }
+.nav {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background:#333;  
+      }
+.nav li {float: right;}
+.nav li a { display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+.nav li a:hover {color: gray;
+    background-color: #111;}
+
+
+.one {margin-left: 10px;margin-top: 20px; margin-right: 10px;background-color: white;width: 1870px;height: 800px;border-bottom: 3px solid gray;}
+.one1 {margin-left: 15px;padding-top: 10px;}
+.two {margin-left: 10px;margin-right: 10px;margin-top:20px; background-color: white;width: 1870px;height: 750px;border-bottom: 3px solid gray;}
+.two1 {margin-left: 15px;padding-top: 10px;}
+.three {margin-left: 10px;margin-right: 10px;margin-top:20px;background-color: white;width: 1870px;height: 850px;border-bottom: 3px solid gray;}
+.three1 {padding-left: 50px;}
+.three2 {margin-left: 30px;padding-top: 20px;}
+.three9 {border:solid 1px;width: 150px;height: 180px;padding:20px;margin: 10px;}
+.four {margin-left: 10px;margin-right: 10px;margin-top:20px;background-color: white;width: 1870px;height: 500px;border-bottom: 3px solid gray;}
+.four1 {margin-left: 150px;border-color: #fff0f5;}
+.four1 label {padding-right: 460px;}
+.four2 {color: white;background-color: black;}
+.four3 {color: purple;}
+.four4 {color: black;font-weight: bold;background-color: gray;}
+.four5 {margin-left: 15px;padding-top: 20px;}
+.four6 {font-weight: bold;}
+.five {margin-left: 10px;margin-right: 10px;margin-top:20px;background-color: white;width: 1870px;height: 450px;border-bottom: 3px solid gray;}
+.five p {padding-top: 20px;padding-left: 20px;}
+.six {margin-left: 430px;}
+.six1 {width: 900px;height:25px;background: blue;color: white; }
+.six2 {margin-left: 280px;}
+.six2 label1 {color: gray;}
+.six3 {width: 900px;height: 40px;background-color: blue;border-radius: 15px;margin-left: 80px;}
+.six8 {margin-left: 140px;}
+.foot {margin-left: 0;margin-right: 10px;margin-top:20px;background-color: black;width: 1920px;height: 150px;
+	background-image: url(../task2/images/99.gif) repeat-x;background-attachment: fixed; background-position: bottom;}
+.foot1 {font-size: 15px;color: #fff;padding-top: 50px;margin-left: 850px;}

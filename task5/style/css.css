@@ -1,0 +1,51 @@
+body{ background-color: #c0c0c0;margin: 2px;}
+.bigest{width: 100%;height: auto;}
+
+.left{height: auto;width: auto;margin: 0 2px;margin-right: 420px;}
+.right{height: auto;width: 400px;float: right;margin: -20px 0 0 0;}
+
+
+.nav{float: right;}
+.nav ul{list-style-type: none;overflow: hidden; padding: 5px 0; background: :#333}
+.nav li{float: left;padding: 0 5px;}
+.nav a{text-decoration: none;font-size: 16px;color: white; display: block;}
+.nav a:hover{color: #c0c0c0;}
+
+
+
+.rightone{ margin: 20px 10px;background-color: #fff;padding: 10px 20px;height: 450px;}
+.rightone1{margin-top: 20px;width: 100%;}
+.rightone2{height: 36px; width: auto;}
+.rightone3{width: 140px;height: 20px; text-align: right;float: left; padding-top: 10px;}
+.rightone4{margin-left: 180px;width: 200px;height: 20px;padding-top: 10px;}
+.Small{margin-left: 180px;color: #c0c0c0;}
+
+
+
+.top{position: absolute; width: 100%;height: auto;background-color: #333;top: 0; left: 0; z-index: 1;}
+.headp{ margin: 5px 10px;width: 150px; height: 50px;float: left;}
+.headp img{width: 120px;height: 45px;}
+
+.main{margin: 80px 15px;left: 0;right: 0;}
+.passage{ margin: 20px 0;background-color: #ffffff;padding: 10px 20px;
+    border-bottom: 3px solid gray;border-right: 3px solid gray;}
+.all{height: auto;width: auto;margin: 10px;overflow: auto;}
+.picture{width: 120px;height: 120px;margin: 5px 5px;border: 1px solid black;float: left;}
+.picture p{text-align: center;font-size: 12px;}
+.picture img{width: 100px; height: 70px;margin: 0 10px;}
+
+
+.table{ width: 100%;height: auto;text-align: left;}
+.table th{background-color: black;color: white;}
+.table td{ }
+
+
+
+textarea{height: 60px; width: 160px;}
+button{height: 40px;width: 80%;
+    margin-left: 10%;margin-top: 50px;border-radius: 15px;
+    background-color:blue; font-size: 20px;color: white;}
+.foot{position: relative;left: 0;bottom: 0;
+    margin-top: -50px;height: 40px;width: 100%;
+    background-color: black;text-align: center;padding-top: 25px;}
+
